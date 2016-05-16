@@ -7,7 +7,7 @@ library(ggplot2)
 library(scales)
 
 # set working directory
-# setwd("...")
+setwd("..")
 
 # read data
 data1 <- read_csv("../input/primary_results.csv")
